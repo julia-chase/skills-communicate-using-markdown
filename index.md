@@ -7,3 +7,7 @@
 ``` python
 string hello = "Hello, World!";
 ```
+
+- [x] Use markdown
+- [x] learn headers
+- [ ] use bold text
